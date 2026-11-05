@@ -1,4 +1,4 @@
-name: OWCS public data daily (no AI)
+name: 大会情報の毎日更新（AI不使用）
 on:
   schedule:
     - cron: '0 15 * * *' # 00:00 JST; GitHub may start later during congestion.
@@ -10,15 +10,16 @@ concurrency:
   cancel-in-progress: false
 jobs:
   refresh:
+    name: 公式大会データの取得
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch and validate official information without AI
+      - name: AIを使わず公式情報を取得・検査
         id: refresh
         continue-on-error: true
         run: python3 update.py
-      - name: Preserve latest successful data and refresh status
+      - name: 正常データと取得結果を保存
         run: |
           git config user.name 'obatopi-data-bot'
           git config user.email 'obatopi-data-bot@users.noreply.github.com'
@@ -27,6 +28,6 @@ jobs:
             git commit -m 'Refresh official OWCS data [skip ci]'
             git push
           fi
-      - name: Report source validation failure
+      - name: 公式データの検査失敗を通知
         if: steps.refresh.outcome == 'failure'
         run: exit 1
