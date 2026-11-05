@@ -1,0 +1,32 @@
+name: OWCS public data daily (no AI)
+on:
+  schedule:
+    - cron: '0 15 * * *' # 00:00 JST; GitHub may start later during congestion.
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: owcs-public-data
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch and validate official information without AI
+        id: refresh
+        continue-on-error: true
+        run: python3 update.py
+      - name: Preserve latest successful data and refresh status
+        run: |
+          git config user.name 'obatopi-data-bot'
+          git config user.email 'obatopi-data-bot@users.noreply.github.com'
+          git add data.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh official OWCS data [skip ci]'
+            git push
+          fi
+      - name: Report source validation failure
+        if: steps.refresh.outcome == 'failure'
+        run: exit 1
