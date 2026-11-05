@@ -14,6 +14,8 @@ GitHub Actionsの標準Ubuntu runnerで毎日0時JSTに予約。PC不要、AI呼
 
 ## 接続前
 
-このフォルダーはローカル準備版。GitHubへの保存・Actions実行・サイト接続の
-三つを確認するまでは自動更新が動作していると報告しない。
-Site側は固定の公開データURLを読む。データには実行コードや認証情報を含めない。
+2026-11-05にGitHub Actionsの試運転成功とサイトへの接続・公開表示を確認。
+観戦ナビ: https://owcs-japan-navi.urotauyuh.chatgpt.site
+取得JSON: https://raw.githubusercontent.com/urotauyuh/obatopi-public-data/main/data.json
+サイトは固定の公開データURLを読み、ロスターの確認日を勝手に進めない。
+対応範囲は上記NA/EMEAのみ。全地域の自動更新が完成したという意味ではない。
