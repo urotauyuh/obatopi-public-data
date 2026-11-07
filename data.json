@@ -2772,14 +2772,14 @@
           "id": "official-schedule-daily",
           "title": "Overwatch Esports公式 日程・結果",
           "url": "https://esports.overwatch.com/en-us/schedule",
-          "checkedAt": "2026-11-06T15:38:22.908957+00:00",
+          "checkedAt": "2026-11-07T15:27:09.910395+00:00",
           "publisher": "Overwatch Esports"
         },
         {
           "id": "official-rankings-daily",
           "title": "Stage 3 Rankings (Updated 10/25)",
           "url": "https://esports.overwatch.com/en-us/rankings",
-          "checkedAt": "2026-11-06T15:38:22.908957+00:00",
+          "checkedAt": "2026-11-07T15:27:09.910395+00:00",
           "publisher": "Overwatch Esports",
           "note": "公式掲載表「Stage 3 Rankings (Updated 10/25)」の順序・勝敗です。以後のプレーオフ結果から順位を再計算していません。"
         }
@@ -2813,8 +2813,8 @@
       "updateStatus": {
         "mode": "daily-program",
         "automaticRefreshConfigured": true,
-        "matchesCheckedAt": "2026-11-06T15:38:22.908957+00:00",
-        "standingsCheckedAt": "2026-11-06T15:38:22.908957+00:00",
+        "matchesCheckedAt": "2026-11-07T15:27:09.910395+00:00",
+        "standingsCheckedAt": "2026-11-07T15:27:09.910395+00:00",
         "rosterCheckedAt": "2026-10-24T20:47:32.036020+00:00",
         "unresolvedOfficialMatches": [],
         "liveTrackingConfigured": false
@@ -4043,14 +4043,14 @@
           "id": "official-schedule-daily",
           "title": "Overwatch Esports公式 日程・結果",
           "url": "https://esports.overwatch.com/en-us/schedule",
-          "checkedAt": "2026-11-06T15:38:22.908957+00:00",
+          "checkedAt": "2026-11-07T15:27:09.910395+00:00",
           "publisher": "Overwatch Esports"
         },
         {
           "id": "official-rankings-daily",
           "title": "Stage 3 Rankings (Updated 10/25)",
           "url": "https://esports.overwatch.com/en-us/rankings",
-          "checkedAt": "2026-11-06T15:38:22.908957+00:00",
+          "checkedAt": "2026-11-07T15:27:09.910395+00:00",
           "publisher": "Overwatch Esports",
           "note": "公式掲載表「Stage 3 Rankings (Updated 10/25)」の順序・勝敗です。以後のプレーオフ結果から順位を再計算していません。"
         }
@@ -4084,8 +4084,8 @@
       "updateStatus": {
         "mode": "daily-program",
         "automaticRefreshConfigured": true,
-        "matchesCheckedAt": "2026-11-06T15:38:22.908957+00:00",
-        "standingsCheckedAt": "2026-11-06T15:38:22.908957+00:00",
+        "matchesCheckedAt": "2026-11-07T15:27:09.910395+00:00",
+        "standingsCheckedAt": "2026-11-07T15:27:09.910395+00:00",
         "rosterCheckedAt": "2026-10-24T20:47:32.036020+00:00",
         "unresolvedOfficialMatches": [],
         "liveTrackingConfigured": false
@@ -6799,7 +6799,7 @@
     }
   },
   "refresh": {
-    "attemptedAt": "2026-11-06T15:38:22.908957+00:00",
+    "attemptedAt": "2026-11-07T15:27:09.910395+00:00",
     "errors": {},
     "aiCalls": 0,
     "automatedRegions": [
