@@ -59,8 +59,9 @@ def adapt(baseline, record, region):
         return teammap[t['id']]
     source_id='owtics-'+region+'-2026-s3-supplement'
     existing={}
+    by_id={m['id']:m for m in baseline['matches']}
     for m in baseline['matches']:
-        existing[(m['date'],frozenset([m['home'],m['away']]))]=m
+        existing.setdefault((m['date'],frozenset([m['home'],m['away']])),[]).append(m)
     matches=[]; seen=set(); identities=set(); unresolved=[]
     for m in c['matches']:
         if m['id'] in seen:raise ValueError('Duplicate match ID')
@@ -89,7 +90,12 @@ def adapt(baseline, record, region):
             if any(type(n)!=int or n<0 or n>target for n in score) or score[0]==score[1] or max(score)!=target:raise ValueError('Invalid score')
             winner=m['teamA']['id'] if score[0]>score[1] else m['teamB']['id']
             if r['winner']['id']!=winner:raise ValueError('Winner mismatch')
-        old=existing.get((date,frozenset([a,b])))
+        stable_id=region+'-2026-s3-owtics-'+m['id'].replace('=','')
+        old=by_id.get(stable_id)
+        if old is None:
+            legacy=[x for x in existing.get((date,frozenset([a,b])),[]) if '-owtics-' not in x['id']]
+            if len(legacy)>1: raise ValueError('Ambiguous legacy fixture; review required')
+            old=legacy[0] if legacy else None
         if old and old['status']=='completed':
             oldscore=old['score'] if old['home']==a else old['score'][::-1]
             if score!=oldscore:raise ValueError('Regression or score conflict with checked baseline')
@@ -101,6 +107,8 @@ def adapt(baseline, record, region):
         matches.append(row)
     for old in baseline['matches']:
         if old['status']=='completed' and (old['date'],frozenset([old['home'],old['away']])) not in {(x['date'],frozenset([x['home'],x['away']])) for x in matches}:raise ValueError('Checked completed match disappeared')
+    known={m['id'] for m in baseline['matches'] if '-owtics-' in m['id']}
+    if not known.issubset({m['id'] for m in matches}): raise ValueError('Known fixture disappeared')
     previous=baseline.get('updateStatus',{}).get('supplementalMatchCount',0)
     if len(matches)+len(unresolved)<previous:raise ValueError('Match count regression')
     out['region']=region
