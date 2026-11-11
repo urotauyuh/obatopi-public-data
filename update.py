@@ -198,9 +198,30 @@ def run(folder, fixture=None):
                 errors[region] = str(exc)
     except Exception as exc:
         errors['official'] = type(exc).__name__ + ': ' + str(exc)
-    result['refresh'] = dict(attemptedAt=checked, errors=errors, aiCalls=0,
-        automatedRegions=['na', 'emea'], manualRegions=['jp', 'kr', 'cn'],
-        schedule='00:00 Asia/Tokyo', scope='2026 Stage 3; matches and official standings; roster unchanged')
+    # Isolate regional failures: one unavailable source never erases another region.
+    from cn_adapter import refresh as refresh_cn
+    from supplemental_adapter import fetch as fetch_supplement, adapt
+    from official_asia import apply as apply_official_asia, URL as ASIA_SCHEDULE
+    try:
+        result['regions']['cn'] = refresh_cn(baseline['regions']['cn'])
+        result['regions']['cn']['updateStatus'].update(mode='daily-program', automaticRefreshConfigured=True, sourceType='official', liveTrackingConfigured=False)
+    except Exception as exc:
+        errors['cn'] = type(exc).__name__ + ': ' + str(exc)
+    for region in ('jp', 'kr', 'pac', 'asia'):
+        try:
+            record = fetch_supplement(region)
+            result['regions'][region] = adapt(baseline['regions'][region], record, region)
+            if region == 'asia':
+                try:
+                    result['regions'][region] = apply_official_asia(result['regions'][region], download(ASIA_SCHEDULE), datetime.now(timezone.utc).isoformat())
+                except Exception as exc:
+                    errors['asia-official-schedule'] = type(exc).__name__ + ': ' + str(exc)
+        except Exception as exc:
+            errors[region] = type(exc).__name__ + ': ' + str(exc)
+    result['refresh'] = dict(attemptedAt=checked, completedAt=datetime.now(timezone.utc).isoformat(), errors=errors, aiCalls=0,
+        automatedRegions=['na', 'emea', 'jp', 'kr', 'cn', 'pac', 'asia'], manualRegions=[],
+        rosterMode='separately_verified_not_automated', schedule='00:00 Asia/Tokyo',
+        scope='2026 Stage 3; official NA/EMEA/CN; JP/KR/PAC/Asia third-party supplements explicitly labelled; Asia online schedule official WDG; roster unchanged')
     # One atomic replacement means interrupted runs never publish truncated JSON.
     encoded = json.dumps(result, ensure_ascii=False, indent=2) + '\n'
     temporary = target.with_suffix('.tmp')
@@ -216,3 +237,5 @@ if __name__ == '__main__':
     parser.add_argument('--fixture', type=Path)
     options = parser.parse_args()
     raise SystemExit(0 if run(ROOT, options.fixture) else 1)
+
+

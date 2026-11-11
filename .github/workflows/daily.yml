@@ -1,8 +1,10 @@
 name: 大会情報の毎日更新（AI不使用）
 on:
   schedule:
-    - cron: '0 15 * * *' # 00:00 JST; GitHub may start later during congestion.
+    - cron: '0 15 * * *' # 00:00 JST; execution can be delayed by GitHub.
   workflow_dispatch:
+  push:
+    paths: ['update.py', '*_adapter.py', 'official_asia.py', 'probe_owtics.py', '.github/workflows/daily.yml', 'test_cloud_safety.py']
 permissions:
   contents: write
 concurrency:
@@ -10,12 +12,14 @@ concurrency:
   cancel-in-progress: false
 jobs:
   refresh:
-    name: 公式大会データの取得
+    name: 全地域の公開大会データを取得
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - name: AIを使わず公式情報を取得・検査
+      - name: 失敗時の保存処理を検査
+        run: python3 -m unittest test_cloud_safety.py
+      - name: AIを使わず取得・検査
         id: refresh
         continue-on-error: true
         run: python3 update.py
@@ -25,9 +29,10 @@ jobs:
           git config user.email 'obatopi-data-bot@users.noreply.github.com'
           git add data.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Refresh official OWCS data [skip ci]'
+            git commit -m 'Refresh tournament data [skip ci]'
             git push
           fi
-      - name: 公式データの検査失敗を通知
+      - name: 取得・検査失敗を通知
         if: steps.refresh.outcome == 'failure'
         run: exit 1
+
