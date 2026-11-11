@@ -2059,7 +2059,7 @@
           "title": "OWTICS.GG補助資料：2026 Stage 3 JP",
           "url": "https://owtics.gg/en-US/esports/tournament/2026-owcs-asia-japan-stage-3",
           "publisher": "OWTICS.GG（第三者・補助資料）",
-          "checkedAt": "2026-11-11T03:59:07.944065+00:00",
+          "checkedAt": "2026-11-11T03:59:39.916976+00:00",
           "note": "公式順位表ではありません。公開構造化データを取得。"
         }
       ],
@@ -2085,11 +2085,11 @@
         "mode": "daily-program",
         "automaticRefreshConfigured": true,
         "liveTrackingConfigured": false,
-        "matchesCheckedAt": "2026-11-11T03:59:07.944065+00:00",
-        "standingsCheckedAt": "2026-11-11T03:59:07.944065+00:00",
+        "matchesCheckedAt": "2026-11-11T03:59:39.916976+00:00",
+        "standingsCheckedAt": "2026-11-11T03:59:39.916976+00:00",
         "standingsTeamCount": 8,
         "sourceType": "third_party",
-        "supplementalCheckedAt": "2026-11-11T03:59:07.944065+00:00",
+        "supplementalCheckedAt": "2026-11-11T03:59:39.916976+00:00",
         "supplementalMatchCount": 32,
         "resolvedMatchCount": 32,
         "unresolvedMatchIds": [],
@@ -4450,14 +4450,14 @@
           "id": "official-schedule-daily",
           "title": "Overwatch Esports公式 日程・結果",
           "url": "https://esports.overwatch.com/en-us/schedule",
-          "checkedAt": "2026-11-11T03:59:04.375471+00:00",
+          "checkedAt": "2026-11-11T03:59:37.451748+00:00",
           "publisher": "Overwatch Esports"
         },
         {
           "id": "official-rankings-daily",
           "title": "Stage 3 Rankings (Updated 10/25)",
           "url": "https://esports.overwatch.com/en-us/rankings",
-          "checkedAt": "2026-11-11T03:59:04.375471+00:00",
+          "checkedAt": "2026-11-11T03:59:37.451748+00:00",
           "publisher": "Overwatch Esports",
           "note": "公式掲載表「Stage 3 Rankings (Updated 10/25)」の順序・勝敗です。以後のプレーオフ結果から順位を再計算していません。"
         }
@@ -4491,8 +4491,8 @@
       "updateStatus": {
         "mode": "daily-program",
         "automaticRefreshConfigured": true,
-        "matchesCheckedAt": "2026-11-11T03:59:04.375471+00:00",
-        "standingsCheckedAt": "2026-11-11T03:59:04.375471+00:00",
+        "matchesCheckedAt": "2026-11-11T03:59:37.451748+00:00",
+        "standingsCheckedAt": "2026-11-11T03:59:37.451748+00:00",
         "rosterCheckedAt": "2026-10-24T20:47:32.036020+00:00",
         "unresolvedOfficialMatches": [],
         "liveTrackingConfigured": false
@@ -5721,14 +5721,14 @@
           "id": "official-schedule-daily",
           "title": "Overwatch Esports公式 日程・結果",
           "url": "https://esports.overwatch.com/en-us/schedule",
-          "checkedAt": "2026-11-11T03:59:04.375471+00:00",
+          "checkedAt": "2026-11-11T03:59:37.451748+00:00",
           "publisher": "Overwatch Esports"
         },
         {
           "id": "official-rankings-daily",
           "title": "Stage 3 Rankings (Updated 10/25)",
           "url": "https://esports.overwatch.com/en-us/rankings",
-          "checkedAt": "2026-11-11T03:59:04.375471+00:00",
+          "checkedAt": "2026-11-11T03:59:37.451748+00:00",
           "publisher": "Overwatch Esports",
           "note": "公式掲載表「Stage 3 Rankings (Updated 10/25)」の順序・勝敗です。以後のプレーオフ結果から順位を再計算していません。"
         }
@@ -5762,8 +5762,8 @@
       "updateStatus": {
         "mode": "daily-program",
         "automaticRefreshConfigured": true,
-        "matchesCheckedAt": "2026-11-11T03:59:04.375471+00:00",
-        "standingsCheckedAt": "2026-11-11T03:59:04.375471+00:00",
+        "matchesCheckedAt": "2026-11-11T03:59:37.451748+00:00",
+        "standingsCheckedAt": "2026-11-11T03:59:37.451748+00:00",
         "rosterCheckedAt": "2026-10-24T20:47:32.036020+00:00",
         "unresolvedOfficialMatches": [],
         "liveTrackingConfigured": false
@@ -7975,7 +7975,7 @@
           "title": "OWTICS.GG補助資料：2026 Stage 3 KR",
           "url": "https://owtics.gg/en-US/esports/tournament/2026-owcs-asia-korea-stage-3",
           "publisher": "OWTICS.GG（第三者・補助資料）",
-          "checkedAt": "2026-11-11T03:59:08.175621+00:00",
+          "checkedAt": "2026-11-11T03:59:39.978382+00:00",
           "note": "公式順位表ではありません。公開構造化データを取得。"
         }
       ],
@@ -8001,11 +8001,11 @@
         "mode": "daily-program",
         "automaticRefreshConfigured": true,
         "liveTrackingConfigured": false,
-        "matchesCheckedAt": "2026-11-11T03:59:08.175621+00:00",
-        "standingsCheckedAt": "2026-11-11T03:59:08.175621+00:00",
+        "matchesCheckedAt": "2026-11-11T03:59:39.978382+00:00",
+        "standingsCheckedAt": "2026-11-11T03:59:39.978382+00:00",
         "standingsTeamCount": 9,
         "sourceType": "third_party",
-        "supplementalCheckedAt": "2026-11-11T03:59:08.175621+00:00",
+        "supplementalCheckedAt": "2026-11-11T03:59:39.978382+00:00",
         "supplementalMatchCount": 51,
         "resolvedMatchCount": 51,
         "unresolvedMatchIds": [],
@@ -11147,7 +11147,7 @@
           "cn-auto-standings-6ad30108ad4833475faf43c2"
         ],
         "sourceUpdatedLabel": "公式更新日時の表示なし",
-        "checkedAt": "2026-11-11T03:59:05.335370+00:00"
+        "checkedAt": "2026-11-11T03:59:37.632354+00:00"
       },
       "events": [
         {
@@ -11257,28 +11257,28 @@
           "title": "中国公式：常规赛-瑞士轮",
           "url": "https://webapi.blizzard.cn/ow-game-center-server-release-app/match_list?comp_type=S3&year=2026&game_type=regular&match_uuid=6aba339090913e8f755fc7b4",
           "publisher": "Blizzard Entertainment / NetEase",
-          "checkedAt": "2026-11-11T03:59:05.335370+00:00"
+          "checkedAt": "2026-11-11T03:59:37.632354+00:00"
         },
         {
           "id": "cn-auto-6ad30108ad4833475faf43c2",
           "title": "中国公式：常规赛-单循环",
           "url": "https://webapi.blizzard.cn/ow-game-center-server-release-app/match_list?comp_type=S3&year=2026&game_type=regular&match_uuid=6ad30108ad4833475faf43c2",
           "publisher": "Blizzard Entertainment / NetEase",
-          "checkedAt": "2026-11-11T03:59:05.335370+00:00"
+          "checkedAt": "2026-11-11T03:59:37.632354+00:00"
         },
         {
           "id": "cn-auto-6ae721fdaaa57cd583a8c970",
           "title": "中国公式：季后赛",
           "url": "https://webapi.blizzard.cn/ow-game-center-server-release-app/match_list?comp_type=S3&year=2026&game_type=playoffs&match_uuid=6ae721fdaaa57cd583a8c970",
           "publisher": "Blizzard Entertainment / NetEase",
-          "checkedAt": "2026-11-11T03:59:05.335370+00:00"
+          "checkedAt": "2026-11-11T03:59:37.632354+00:00"
         },
         {
           "id": "cn-auto-standings-6ad30108ad4833475faf43c2",
           "title": "中国公式順位：常规赛-单循环",
           "url": "https://webapi.blizzard.cn/ow-game-center-server-release-app/team_statistics?match_uuid=6ad30108ad4833475faf43c2",
           "publisher": "Blizzard Entertainment / NetEase",
-          "checkedAt": "2026-11-11T03:59:05.335370+00:00"
+          "checkedAt": "2026-11-11T03:59:37.632354+00:00"
         }
       ],
       "platforms": [
@@ -11311,8 +11311,8 @@
         "mode": "daily-program",
         "automaticRefreshConfigured": true,
         "liveTrackingConfigured": false,
-        "matchesCheckedAt": "2026-11-11T03:59:05.335370+00:00",
-        "standingsCheckedAt": "2026-11-11T03:59:05.335370+00:00",
+        "matchesCheckedAt": "2026-11-11T03:59:37.632354+00:00",
+        "standingsCheckedAt": "2026-11-11T03:59:37.632354+00:00",
         "rosterCheckedAt": "2026-10-24T20:47:32.036020+00:00",
         "standingsTeamCount": 6,
         "sourceType": "official"
@@ -11826,18 +11826,18 @@
           "title": "OWTICS.GG補助資料：2026 Stage 3 PAC",
           "url": "https://owtics.gg/en-US/esports/tournament/2026-owcs-asia-pacific-stage-3",
           "publisher": "OWTICS.GG（第三者・補助資料）",
-          "checkedAt": "2026-11-11T03:59:08.367627+00:00",
+          "checkedAt": "2026-11-11T03:59:40.039462+00:00",
           "note": "公式順位表ではありません。公開構造化データを取得。"
         }
       ],
       "platforms": [],
       "updateStatus": {
         "mode": "daily-program",
-        "matchesCheckedAt": "2026-11-11T03:59:08.367627+00:00",
-        "standingsCheckedAt": "2026-11-11T03:59:08.367627+00:00",
+        "matchesCheckedAt": "2026-11-11T03:59:40.039462+00:00",
+        "standingsCheckedAt": "2026-11-11T03:59:40.039462+00:00",
         "standingsTeamCount": 6,
         "sourceType": "third_party",
-        "supplementalCheckedAt": "2026-11-11T03:59:08.367627+00:00",
+        "supplementalCheckedAt": "2026-11-11T03:59:40.039462+00:00",
         "supplementalMatchCount": 19,
         "resolvedMatchCount": 19,
         "unresolvedMatchIds": [],
@@ -13223,7 +13223,7 @@
           "title": "OWTICS.GG補助資料：2026 Stage 3 ASIA",
           "url": "https://owtics.gg/en-US/esports/tournament/2026-owcs-asia-stage-3-grand-finals",
           "publisher": "OWTICS.GG（第三者・補助資料）",
-          "checkedAt": "2026-11-11T03:59:08.592770+00:00",
+          "checkedAt": "2026-11-11T03:59:40.109188+00:00",
           "note": "公式順位表ではありません。公開構造化データを取得。"
         },
         {
@@ -13231,17 +13231,17 @@
           "title": "WDG公式：OWCS Asia Stage 3日程",
           "url": "https://www.owcsasia.com/competition.js",
           "publisher": "WDG / Overwatch Esports Asia",
-          "checkedAt": "2026-11-11T03:59:08.906942+00:00"
+          "checkedAt": "2026-11-11T03:59:40.577012+00:00"
         }
       ],
       "platforms": [],
       "updateStatus": {
         "mode": "daily-program",
-        "matchesCheckedAt": "2026-11-11T03:59:08.592770+00:00",
+        "matchesCheckedAt": "2026-11-11T03:59:40.109188+00:00",
         "standingsCheckedAt": null,
         "standingsTeamCount": 0,
         "sourceType": "third_party",
-        "supplementalCheckedAt": "2026-11-11T03:59:08.592770+00:00",
+        "supplementalCheckedAt": "2026-11-11T03:59:40.109188+00:00",
         "supplementalMatchCount": 20,
         "resolvedMatchCount": 12,
         "unresolvedMatchIds": [
@@ -13255,7 +13255,7 @@
           "TWF0Y2g6MjkyOQ=="
         ],
         "supplementalSource": "OWTICS.GG（第三者・補助資料）",
-        "officialScheduleCheckedAt": "2026-11-11T03:59:08.906942+00:00",
+        "officialScheduleCheckedAt": "2026-11-11T03:59:40.577012+00:00",
         "officialScheduleMatchCount": 12,
         "automaticRefreshConfigured": true,
         "liveTrackingConfigured": false
@@ -13561,8 +13561,8 @@
     }
   },
   "refresh": {
-    "attemptedAt": "2026-11-11T03:59:04.375471+00:00",
-    "completedAt": "2026-11-11T03:59:08.908211+00:00",
+    "attemptedAt": "2026-11-11T03:59:37.451748+00:00",
+    "completedAt": "2026-11-11T03:59:40.578147+00:00",
     "errors": {},
     "aiCalls": 0,
     "automatedRegions": [
