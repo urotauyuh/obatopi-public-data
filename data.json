@@ -2059,7 +2059,7 @@
           "title": "OWTICS.GG補助資料：2026 Stage 3 JP",
           "url": "https://owtics.gg/en-US/esports/tournament/2026-owcs-asia-japan-stage-3",
           "publisher": "OWTICS.GG（第三者・補助資料）",
-          "checkedAt": "2026-11-21T15:35:50.179881+00:00",
+          "checkedAt": "2026-11-22T15:36:19.263327+00:00",
           "note": "公式順位表ではありません。公開構造化データを取得。"
         }
       ],
@@ -2085,11 +2085,11 @@
         "mode": "daily-program",
         "automaticRefreshConfigured": true,
         "liveTrackingConfigured": false,
-        "matchesCheckedAt": "2026-11-21T15:35:50.179881+00:00",
-        "standingsCheckedAt": "2026-11-21T15:35:50.179881+00:00",
+        "matchesCheckedAt": "2026-11-22T15:36:19.263327+00:00",
+        "standingsCheckedAt": "2026-11-22T15:36:19.263327+00:00",
         "standingsTeamCount": 8,
         "sourceType": "third_party",
-        "supplementalCheckedAt": "2026-11-21T15:35:50.179881+00:00",
+        "supplementalCheckedAt": "2026-11-22T15:36:19.263327+00:00",
         "supplementalMatchCount": 32,
         "resolvedMatchCount": 32,
         "unresolvedMatchIds": [],
@@ -4450,14 +4450,14 @@
           "id": "official-schedule-daily",
           "title": "Overwatch Esports公式 日程・結果",
           "url": "https://esports.overwatch.com/en-us/schedule",
-          "checkedAt": "2026-11-21T15:35:46.657058+00:00",
+          "checkedAt": "2026-11-22T15:36:15.707812+00:00",
           "publisher": "Overwatch Esports"
         },
         {
           "id": "official-rankings-daily",
           "title": "Stage 3 Rankings (Updated 10/25)",
           "url": "https://esports.overwatch.com/en-us/rankings",
-          "checkedAt": "2026-11-21T15:35:46.657058+00:00",
+          "checkedAt": "2026-11-22T15:36:15.707812+00:00",
           "publisher": "Overwatch Esports",
           "note": "公式掲載表「Stage 3 Rankings (Updated 10/25)」の順序・勝敗です。以後のプレーオフ結果から順位を再計算していません。"
         }
@@ -4491,8 +4491,8 @@
       "updateStatus": {
         "mode": "daily-program",
         "automaticRefreshConfigured": true,
-        "matchesCheckedAt": "2026-11-21T15:35:46.657058+00:00",
-        "standingsCheckedAt": "2026-11-21T15:35:46.657058+00:00",
+        "matchesCheckedAt": "2026-11-22T15:36:15.707812+00:00",
+        "standingsCheckedAt": "2026-11-22T15:36:15.707812+00:00",
         "rosterCheckedAt": "2026-10-24T20:47:32.036020+00:00",
         "unresolvedOfficialMatches": [],
         "liveTrackingConfigured": false
@@ -5721,14 +5721,14 @@
           "id": "official-schedule-daily",
           "title": "Overwatch Esports公式 日程・結果",
           "url": "https://esports.overwatch.com/en-us/schedule",
-          "checkedAt": "2026-11-21T15:35:46.657058+00:00",
+          "checkedAt": "2026-11-22T15:36:15.707812+00:00",
           "publisher": "Overwatch Esports"
         },
         {
           "id": "official-rankings-daily",
           "title": "Stage 3 Rankings (Updated 10/25)",
           "url": "https://esports.overwatch.com/en-us/rankings",
-          "checkedAt": "2026-11-21T15:35:46.657058+00:00",
+          "checkedAt": "2026-11-22T15:36:15.707812+00:00",
           "publisher": "Overwatch Esports",
           "note": "公式掲載表「Stage 3 Rankings (Updated 10/25)」の順序・勝敗です。以後のプレーオフ結果から順位を再計算していません。"
         }
@@ -5762,8 +5762,8 @@
       "updateStatus": {
         "mode": "daily-program",
         "automaticRefreshConfigured": true,
-        "matchesCheckedAt": "2026-11-21T15:35:46.657058+00:00",
-        "standingsCheckedAt": "2026-11-21T15:35:46.657058+00:00",
+        "matchesCheckedAt": "2026-11-22T15:36:15.707812+00:00",
+        "standingsCheckedAt": "2026-11-22T15:36:15.707812+00:00",
         "rosterCheckedAt": "2026-10-24T20:47:32.036020+00:00",
         "unresolvedOfficialMatches": [],
         "liveTrackingConfigured": false
@@ -7975,7 +7975,7 @@
           "title": "OWTICS.GG補助資料：2026 Stage 3 KR",
           "url": "https://owtics.gg/en-US/esports/tournament/2026-owcs-asia-korea-stage-3",
           "publisher": "OWTICS.GG（第三者・補助資料）",
-          "checkedAt": "2026-11-21T15:35:50.406926+00:00",
+          "checkedAt": "2026-11-22T15:36:19.512984+00:00",
           "note": "公式順位表ではありません。公開構造化データを取得。"
         }
       ],
@@ -8001,11 +8001,11 @@
         "mode": "daily-program",
         "automaticRefreshConfigured": true,
         "liveTrackingConfigured": false,
-        "matchesCheckedAt": "2026-11-21T15:35:50.406926+00:00",
-        "standingsCheckedAt": "2026-11-21T15:35:50.406926+00:00",
+        "matchesCheckedAt": "2026-11-22T15:36:19.512984+00:00",
+        "standingsCheckedAt": "2026-11-22T15:36:19.512984+00:00",
         "standingsTeamCount": 9,
         "sourceType": "third_party",
-        "supplementalCheckedAt": "2026-11-21T15:35:50.406926+00:00",
+        "supplementalCheckedAt": "2026-11-22T15:36:19.512984+00:00",
         "supplementalMatchCount": 51,
         "resolvedMatchCount": 51,
         "unresolvedMatchIds": [],
@@ -11147,7 +11147,7 @@
           "cn-auto-standings-6ad30108ad4833475faf43c2"
         ],
         "sourceUpdatedLabel": "公式更新日時の表示なし",
-        "checkedAt": "2026-11-21T15:35:47.663543+00:00"
+        "checkedAt": "2026-11-22T15:36:16.175175+00:00"
       },
       "events": [
         {
@@ -11257,28 +11257,28 @@
           "title": "中国公式：常规赛-瑞士轮",
           "url": "https://webapi.blizzard.cn/ow-game-center-server-release-app/match_list?comp_type=S3&year=2026&game_type=regular&match_uuid=6aba339090913e8f755fc7b4",
           "publisher": "Blizzard Entertainment / NetEase",
-          "checkedAt": "2026-11-21T15:35:47.663543+00:00"
+          "checkedAt": "2026-11-22T15:36:16.175175+00:00"
         },
         {
           "id": "cn-auto-6ad30108ad4833475faf43c2",
           "title": "中国公式：常规赛-单循环",
           "url": "https://webapi.blizzard.cn/ow-game-center-server-release-app/match_list?comp_type=S3&year=2026&game_type=regular&match_uuid=6ad30108ad4833475faf43c2",
           "publisher": "Blizzard Entertainment / NetEase",
-          "checkedAt": "2026-11-21T15:35:47.663543+00:00"
+          "checkedAt": "2026-11-22T15:36:16.175175+00:00"
         },
         {
           "id": "cn-auto-6ae721fdaaa57cd583a8c970",
           "title": "中国公式：季后赛",
           "url": "https://webapi.blizzard.cn/ow-game-center-server-release-app/match_list?comp_type=S3&year=2026&game_type=playoffs&match_uuid=6ae721fdaaa57cd583a8c970",
           "publisher": "Blizzard Entertainment / NetEase",
-          "checkedAt": "2026-11-21T15:35:47.663543+00:00"
+          "checkedAt": "2026-11-22T15:36:16.175175+00:00"
         },
         {
           "id": "cn-auto-standings-6ad30108ad4833475faf43c2",
           "title": "中国公式順位：常规赛-单循环",
           "url": "https://webapi.blizzard.cn/ow-game-center-server-release-app/team_statistics?match_uuid=6ad30108ad4833475faf43c2",
           "publisher": "Blizzard Entertainment / NetEase",
-          "checkedAt": "2026-11-21T15:35:47.663543+00:00"
+          "checkedAt": "2026-11-22T15:36:16.175175+00:00"
         }
       ],
       "platforms": [
@@ -11311,8 +11311,8 @@
         "mode": "daily-program",
         "automaticRefreshConfigured": true,
         "liveTrackingConfigured": false,
-        "matchesCheckedAt": "2026-11-21T15:35:47.663543+00:00",
-        "standingsCheckedAt": "2026-11-21T15:35:47.663543+00:00",
+        "matchesCheckedAt": "2026-11-22T15:36:16.175175+00:00",
+        "standingsCheckedAt": "2026-11-22T15:36:16.175175+00:00",
         "rosterCheckedAt": "2026-10-24T20:47:32.036020+00:00",
         "standingsTeamCount": 6,
         "sourceType": "official"
@@ -11826,18 +11826,18 @@
           "title": "OWTICS.GG補助資料：2026 Stage 3 PAC",
           "url": "https://owtics.gg/en-US/esports/tournament/2026-owcs-asia-pacific-stage-3",
           "publisher": "OWTICS.GG（第三者・補助資料）",
-          "checkedAt": "2026-11-21T15:35:50.611291+00:00",
+          "checkedAt": "2026-11-22T15:36:19.754566+00:00",
           "note": "公式順位表ではありません。公開構造化データを取得。"
         }
       ],
       "platforms": [],
       "updateStatus": {
         "mode": "daily-program",
-        "matchesCheckedAt": "2026-11-21T15:35:50.611291+00:00",
-        "standingsCheckedAt": "2026-11-21T15:35:50.611291+00:00",
+        "matchesCheckedAt": "2026-11-22T15:36:19.754566+00:00",
+        "standingsCheckedAt": "2026-11-22T15:36:19.754566+00:00",
         "standingsTeamCount": 6,
         "sourceType": "third_party",
-        "supplementalCheckedAt": "2026-11-21T15:35:50.611291+00:00",
+        "supplementalCheckedAt": "2026-11-22T15:36:19.754566+00:00",
         "supplementalMatchCount": 19,
         "resolvedMatchCount": 19,
         "unresolvedMatchIds": [],
@@ -13374,14 +13374,17 @@
           "round": "Main Stage",
           "home": "zeta-division",
           "away": "team-falcons",
-          "score": null,
-          "status": "scheduled",
+          "score": [
+            4,
+            2
+          ],
+          "status": "completed",
           "format": "FT4",
           "sourceIds": [
             "owtics-asia-2026-s3-supplement"
           ],
           "note": "OWTICS.GG補助資料。日時は予定日時に基づく日付で、実開始時刻は未確認。",
-          "scheduledAt": "2026-11-22T08:30:00+00:00"
+          "scheduledAt": "2026-11-22T08:40:00+00:00"
         },
         {
           "id": "asia-2026-s3-owtics-TWF0Y2g6MjkyOQ",
@@ -13391,20 +13394,67 @@
           "round": "Main Stage",
           "home": "t1",
           "away": "crazy-raccoon",
-          "score": null,
-          "status": "scheduled",
+          "score": [
+            4,
+            1
+          ],
+          "status": "completed",
           "format": "FT4",
           "sourceIds": [
             "owtics-asia-2026-s3-supplement"
           ],
           "note": "OWTICS.GG補助資料。日時は予定日時に基づく日付で、実開始時刻は未確認。",
-          "scheduledAt": "2026-11-22T10:30:00+00:00"
+          "scheduledAt": "2026-11-22T11:20:00+00:00"
         }
       ],
       "standings": {
-        "rows": [],
-        "note": "順位は未確定。選手名簿は未確認。",
-        "sourceIds": []
+        "kind": "final",
+        "rows": [
+          {
+            "rank": 1,
+            "rankEnd": 1,
+            "team": "t1"
+          },
+          {
+            "rank": 2,
+            "rankEnd": 2,
+            "team": "crazy-raccoon"
+          },
+          {
+            "rank": 3,
+            "rankEnd": 3,
+            "team": "zeta-division"
+          },
+          {
+            "rank": 4,
+            "rankEnd": 4,
+            "team": "team-falcons"
+          },
+          {
+            "rank": 5,
+            "rankEnd": 5,
+            "team": "varrel"
+          },
+          {
+            "rank": 6,
+            "rankEnd": 6,
+            "team": "the-gatos-guapos"
+          },
+          {
+            "rank": 7,
+            "rankEnd": 8,
+            "team": "enter-force-36"
+          },
+          {
+            "rank": 7,
+            "rankEnd": 8,
+            "team": "murash-gaming"
+          }
+        ],
+        "note": "Stage 3大会最終順位。OWTICS.GG補助資料。勝敗は工程が異なるため合算しません。",
+        "sourceIds": [
+          "owtics-asia-2026-s3-supplement"
+        ]
       },
       "events": [],
       "sources": [
@@ -13413,7 +13463,7 @@
           "title": "OWTICS.GG補助資料：2026 Stage 3 ASIA",
           "url": "https://owtics.gg/en-US/esports/tournament/2026-owcs-asia-stage-3-grand-finals",
           "publisher": "OWTICS.GG（第三者・補助資料）",
-          "checkedAt": "2026-11-21T15:35:50.807096+00:00",
+          "checkedAt": "2026-11-22T15:36:20.012705+00:00",
           "note": "公式順位表ではありません。公開構造化データを取得。"
         },
         {
@@ -13421,22 +13471,22 @@
           "title": "WDG公式：OWCS Asia Stage 3日程",
           "url": "https://www.owcsasia.com/competition.js",
           "publisher": "WDG / Overwatch Esports Asia",
-          "checkedAt": "2026-11-21T15:35:51.078125+00:00"
+          "checkedAt": "2026-11-22T15:36:20.692496+00:00"
         }
       ],
       "platforms": [],
       "updateStatus": {
         "mode": "daily-program",
-        "matchesCheckedAt": "2026-11-21T15:35:50.807096+00:00",
-        "standingsCheckedAt": null,
-        "standingsTeamCount": 0,
+        "matchesCheckedAt": "2026-11-22T15:36:20.012705+00:00",
+        "standingsCheckedAt": "2026-11-22T15:36:20.012705+00:00",
+        "standingsTeamCount": 8,
         "sourceType": "third_party",
-        "supplementalCheckedAt": "2026-11-21T15:35:50.807096+00:00",
+        "supplementalCheckedAt": "2026-11-22T15:36:20.012705+00:00",
         "supplementalMatchCount": 20,
         "resolvedMatchCount": 20,
         "unresolvedMatchIds": [],
         "supplementalSource": "OWTICS.GG（第三者・補助資料）",
-        "officialScheduleCheckedAt": "2026-11-21T15:35:51.078125+00:00",
+        "officialScheduleCheckedAt": "2026-11-22T15:36:20.692496+00:00",
         "officialScheduleMatchCount": 12,
         "automaticRefreshConfigured": true,
         "liveTrackingConfigured": false
@@ -13548,10 +13598,7 @@
           "mapLosses": 3,
           "rank": 1,
           "position": 1,
-          "outcome": {
-            "id": "UGhhc2VPdXRjb21lOjIwNg==",
-            "__typename": "PhaseOutcome"
-          },
+          "outcome": null,
           "isEliminated": false,
           "__typename": "CompetitionStanding",
           "teamId": "team-falcons"
@@ -13588,8 +13635,85 @@
           "mapLosses": 0,
           "rank": 1,
           "position": 1,
+          "outcome": null,
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "zeta-division"
+        },
+        {
+          "team": {
+            "id": "VGVhbTo1",
+            "name": "Team Falcons",
+            "abbreviation": "FLC",
+            "logoUrl": "https://assets.owtics.gg/team/team-falcons.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3Mw==",
+            "name": "Group A",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 4,
+          "wins": 3,
+          "losses": 0,
+          "draws": 0,
+          "mapWins": 9,
+          "mapLosses": 3,
+          "rank": 1,
+          "position": 1,
           "outcome": {
-            "id": "UGhhc2VPdXRjb21lOjIwNg==",
+            "id": "UGhhc2VPdXRjb21lOjIwOA==",
+            "__typename": "PhaseOutcome"
+          },
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "team-falcons"
+        },
+        {
+          "team": {
+            "id": "VGVhbToz",
+            "name": "ZETA DIVISION",
+            "abbreviation": "ZETA",
+            "logoUrl": "https://assets.owtics.gg/team/zeta-division.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3NA==",
+            "name": "Group B",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 4,
+          "wins": 3,
+          "losses": 0,
+          "draws": 0,
+          "mapWins": 9,
+          "mapLosses": 0,
+          "rank": 1,
+          "position": 1,
+          "outcome": {
+            "id": "UGhhc2VPdXRjb21lOjIwOA==",
             "__typename": "PhaseOutcome"
           },
           "isEliminated": false,
@@ -13694,6 +13818,123 @@
             },
             "__typename": "CompetitionPhase"
           },
+          "round": 4,
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "mapWins": 6,
+          "mapLosses": 3,
+          "rank": 2,
+          "position": 2,
+          "outcome": {
+            "id": "UGhhc2VPdXRjb21lOjIwOQ==",
+            "__typename": "PhaseOutcome"
+          },
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "crazy-raccoon"
+        },
+        {
+          "team": {
+            "id": "VGVhbTox",
+            "name": "T1",
+            "abbreviation": "T1",
+            "logoUrl": "https://assets.owtics.gg/team/t1.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3Mw==",
+            "name": "Group A",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 4,
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "mapWins": 8,
+          "mapLosses": 3,
+          "rank": 2,
+          "position": 2,
+          "outcome": {
+            "id": "UGhhc2VPdXRjb21lOjIwOQ==",
+            "__typename": "PhaseOutcome"
+          },
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "t1"
+        },
+        {
+          "team": {
+            "id": "VGVhbTo0",
+            "name": "Crazy Raccoon",
+            "abbreviation": "CR",
+            "logoUrl": "https://assets.owtics.gg/team/crazy-raccoon-b7062033.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3NA==",
+            "name": "Group B",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 2,
+          "wins": 2,
+          "losses": 0,
+          "draws": 0,
+          "mapWins": 6,
+          "mapLosses": 0,
+          "rank": 1,
+          "position": 2,
+          "outcome": null,
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "crazy-raccoon"
+        },
+        {
+          "team": {
+            "id": "VGVhbTo0",
+            "name": "Crazy Raccoon",
+            "abbreviation": "CR",
+            "logoUrl": "https://assets.owtics.gg/team/crazy-raccoon-b7062033.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3NA==",
+            "name": "Group B",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
           "round": 1,
           "wins": 1,
           "losses": 0,
@@ -13706,6 +13947,43 @@
           "isEliminated": false,
           "__typename": "CompetitionStanding",
           "teamId": "crazy-raccoon"
+        },
+        {
+          "team": {
+            "id": "VGVhbTo1",
+            "name": "Team Falcons",
+            "abbreviation": "FLC",
+            "logoUrl": "https://assets.owtics.gg/team/team-falcons.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3Mw==",
+            "name": "Group A",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 1,
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "mapWins": 3,
+          "mapLosses": 0,
+          "rank": 1,
+          "position": 2,
+          "outcome": null,
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "team-falcons"
         },
         {
           "team": {
@@ -13739,13 +14017,47 @@
           "mapLosses": 3,
           "rank": 2,
           "position": 2,
-          "outcome": {
-            "id": "UGhhc2VPdXRjb21lOjIwNg==",
-            "__typename": "PhaseOutcome"
-          },
+          "outcome": null,
           "isEliminated": false,
           "__typename": "CompetitionStanding",
           "teamId": "crazy-raccoon"
+        },
+        {
+          "team": {
+            "id": "VGVhbTox",
+            "name": "T1",
+            "abbreviation": "T1",
+            "logoUrl": "https://assets.owtics.gg/team/t1.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3Mw==",
+            "name": "Group A",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 3,
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "mapWins": 8,
+          "mapLosses": 3,
+          "rank": 2,
+          "position": 2,
+          "outcome": null,
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "t1"
         },
         {
           "team": {
@@ -13786,87 +14098,10 @@
         },
         {
           "team": {
-            "id": "VGVhbTox",
-            "name": "T1",
-            "abbreviation": "T1",
-            "logoUrl": "https://assets.owtics.gg/team/t1.webp",
-            "__typename": "Team"
-          },
-          "group": {
-            "id": "Q29tcGV0aXRpb25Hcm91cDo3Mw==",
-            "name": "Group A",
-            "__typename": "CompetitionGroup"
-          },
-          "phaseInfo": {
-            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
-            "name": "REGULAR_SEASON",
-            "format": "ROUND_ROBIN",
-            "sortOrder": 1,
-            "config": {
-              "roundLabel": "MATCHDAY",
-              "__typename": "PhaseConfig"
-            },
-            "__typename": "CompetitionPhase"
-          },
-          "round": 3,
-          "wins": 2,
-          "losses": 1,
-          "draws": 0,
-          "mapWins": 8,
-          "mapLosses": 3,
-          "rank": 2,
-          "position": 2,
-          "outcome": {
-            "id": "UGhhc2VPdXRjb21lOjIwNg==",
-            "__typename": "PhaseOutcome"
-          },
-          "isEliminated": false,
-          "__typename": "CompetitionStanding",
-          "teamId": "t1"
-        },
-        {
-          "team": {
-            "id": "VGVhbTo0",
-            "name": "Crazy Raccoon",
-            "abbreviation": "CR",
-            "logoUrl": "https://assets.owtics.gg/team/crazy-raccoon-b7062033.webp",
-            "__typename": "Team"
-          },
-          "group": {
-            "id": "Q29tcGV0aXRpb25Hcm91cDo3NA==",
-            "name": "Group B",
-            "__typename": "CompetitionGroup"
-          },
-          "phaseInfo": {
-            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
-            "name": "REGULAR_SEASON",
-            "format": "ROUND_ROBIN",
-            "sortOrder": 1,
-            "config": {
-              "roundLabel": "MATCHDAY",
-              "__typename": "PhaseConfig"
-            },
-            "__typename": "CompetitionPhase"
-          },
-          "round": 2,
-          "wins": 2,
-          "losses": 0,
-          "draws": 0,
-          "mapWins": 6,
-          "mapLosses": 0,
-          "rank": 1,
-          "position": 2,
-          "outcome": null,
-          "isEliminated": false,
-          "__typename": "CompetitionStanding",
-          "teamId": "crazy-raccoon"
-        },
-        {
-          "team": {
-            "id": "VGVhbTo1",
-            "name": "Team Falcons",
-            "abbreviation": "FLC",
-            "logoUrl": "https://assets.owtics.gg/team/team-falcons.webp",
+            "id": "VGVhbToyMg==",
+            "name": "The Gatos Guapos",
+            "abbreviation": "TGG",
+            "logoUrl": "https://assets.owtics.gg/team/the-gatos-guapos-bb429d9e.webp",
             "__typename": "Team"
           },
           "group": {
@@ -13886,54 +14121,17 @@
             "__typename": "CompetitionPhase"
           },
           "round": 1,
-          "wins": 1,
-          "losses": 0,
-          "draws": 0,
-          "mapWins": 3,
-          "mapLosses": 0,
-          "rank": 1,
-          "position": 2,
-          "outcome": null,
-          "isEliminated": false,
-          "__typename": "CompetitionStanding",
-          "teamId": "team-falcons"
-        },
-        {
-          "team": {
-            "id": "VGVhbToxMg==",
-            "name": "VARREL",
-            "abbreviation": "VL",
-            "logoUrl": "https://assets.owtics.gg/team/varrel-33435217.webp",
-            "__typename": "Team"
-          },
-          "group": {
-            "id": "Q29tcGV0aXRpb25Hcm91cDo3NA==",
-            "name": "Group B",
-            "__typename": "CompetitionGroup"
-          },
-          "phaseInfo": {
-            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
-            "name": "REGULAR_SEASON",
-            "format": "ROUND_ROBIN",
-            "sortOrder": 1,
-            "config": {
-              "roundLabel": "MATCHDAY",
-              "__typename": "PhaseConfig"
-            },
-            "__typename": "CompetitionPhase"
-          },
-          "round": 2,
           "wins": 0,
-          "losses": 2,
+          "losses": 1,
           "draws": 0,
           "mapWins": 0,
-          "mapLosses": 6,
+          "mapLosses": 3,
           "rank": 3,
           "position": 3,
           "outcome": null,
           "isEliminated": false,
           "__typename": "CompetitionStanding",
-          "teamId": "varrel"
+          "teamId": "the-gatos-guapos"
         },
         {
           "team": {
@@ -13967,10 +14165,7 @@
           "mapLosses": 6,
           "rank": 3,
           "position": 3,
-          "outcome": {
-            "id": "UGhhc2VPdXRjb21lOjIwNg==",
-            "__typename": "PhaseOutcome"
-          },
+          "outcome": null,
           "isEliminated": false,
           "__typename": "CompetitionStanding",
           "teamId": "the-gatos-guapos"
@@ -14007,8 +14202,85 @@
           "mapLosses": 7,
           "rank": 3,
           "position": 3,
+          "outcome": null,
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "varrel"
+        },
+        {
+          "team": {
+            "id": "VGVhbToyMg==",
+            "name": "The Gatos Guapos",
+            "abbreviation": "TGG",
+            "logoUrl": "https://assets.owtics.gg/team/the-gatos-guapos-bb429d9e.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3Mw==",
+            "name": "Group A",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 4,
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "mapWins": 4,
+          "mapLosses": 6,
+          "rank": 3,
+          "position": 3,
           "outcome": {
-            "id": "UGhhc2VPdXRjb21lOjIwNg==",
+            "id": "UGhhc2VPdXRjb21lOjIwOQ==",
+            "__typename": "PhaseOutcome"
+          },
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "the-gatos-guapos"
+        },
+        {
+          "team": {
+            "id": "VGVhbToxMg==",
+            "name": "VARREL",
+            "abbreviation": "VL",
+            "logoUrl": "https://assets.owtics.gg/team/varrel-33435217.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3NA==",
+            "name": "Group B",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 4,
+          "wins": 1,
+          "losses": 2,
+          "draws": 0,
+          "mapWins": 3,
+          "mapLosses": 7,
+          "rank": 3,
+          "position": 3,
+          "outcome": {
+            "id": "UGhhc2VPdXRjb21lOjIwOQ==",
             "__typename": "PhaseOutcome"
           },
           "isEliminated": false,
@@ -14076,43 +14348,6 @@
             },
             "__typename": "CompetitionPhase"
           },
-          "round": 1,
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "mapWins": 0,
-          "mapLosses": 3,
-          "rank": 3,
-          "position": 3,
-          "outcome": null,
-          "isEliminated": false,
-          "__typename": "CompetitionStanding",
-          "teamId": "the-gatos-guapos"
-        },
-        {
-          "team": {
-            "id": "VGVhbToyMg==",
-            "name": "The Gatos Guapos",
-            "abbreviation": "TGG",
-            "logoUrl": "https://assets.owtics.gg/team/the-gatos-guapos-bb429d9e.webp",
-            "__typename": "Team"
-          },
-          "group": {
-            "id": "Q29tcGV0aXRpb25Hcm91cDo3Mw==",
-            "name": "Group A",
-            "__typename": "CompetitionGroup"
-          },
-          "phaseInfo": {
-            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
-            "name": "REGULAR_SEASON",
-            "format": "ROUND_ROBIN",
-            "sortOrder": 1,
-            "config": {
-              "roundLabel": "MATCHDAY",
-              "__typename": "PhaseConfig"
-            },
-            "__typename": "CompetitionPhase"
-          },
           "round": 2,
           "wins": 0,
           "losses": 2,
@@ -14128,84 +14363,10 @@
         },
         {
           "team": {
-            "id": "VGVhbTozMjE=",
-            "name": "MURASH GAMING",
-            "abbreviation": "MRG",
-            "logoUrl": "https://assets.owtics.gg/team/murash-gaming-86abe306.webp",
-            "__typename": "Team"
-          },
-          "group": {
-            "id": "Q29tcGV0aXRpb25Hcm91cDo3Mw==",
-            "name": "Group A",
-            "__typename": "CompetitionGroup"
-          },
-          "phaseInfo": {
-            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
-            "name": "REGULAR_SEASON",
-            "format": "ROUND_ROBIN",
-            "sortOrder": 1,
-            "config": {
-              "roundLabel": "MATCHDAY",
-              "__typename": "PhaseConfig"
-            },
-            "__typename": "CompetitionPhase"
-          },
-          "round": 1,
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "mapWins": 0,
-          "mapLosses": 3,
-          "rank": 3,
-          "position": 4,
-          "outcome": null,
-          "isEliminated": false,
-          "__typename": "CompetitionStanding",
-          "teamId": "murash-gaming"
-        },
-        {
-          "team": {
-            "id": "VGVhbToyMzM=",
-            "name": "ENTER FORCE.36",
-            "abbreviation": "E36",
-            "logoUrl": "https://assets.owtics.gg/team/enter-force36-384ae9b6.webp",
-            "__typename": "Team"
-          },
-          "group": {
-            "id": "Q29tcGV0aXRpb25Hcm91cDo3NA==",
-            "name": "Group B",
-            "__typename": "CompetitionGroup"
-          },
-          "phaseInfo": {
-            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
-            "name": "REGULAR_SEASON",
-            "format": "ROUND_ROBIN",
-            "sortOrder": 1,
-            "config": {
-              "roundLabel": "MATCHDAY",
-              "__typename": "PhaseConfig"
-            },
-            "__typename": "CompetitionPhase"
-          },
-          "round": 1,
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "mapWins": 0,
-          "mapLosses": 3,
-          "rank": 3,
-          "position": 4,
-          "outcome": null,
-          "isEliminated": false,
-          "__typename": "CompetitionStanding",
-          "teamId": "enter-force-36"
-        },
-        {
-          "team": {
-            "id": "VGVhbToyMzM=",
-            "name": "ENTER FORCE.36",
-            "abbreviation": "E36",
-            "logoUrl": "https://assets.owtics.gg/team/enter-force36-384ae9b6.webp",
+            "id": "VGVhbToxMg==",
+            "name": "VARREL",
+            "abbreviation": "VL",
+            "logoUrl": "https://assets.owtics.gg/team/varrel-33435217.webp",
             "__typename": "Team"
           },
           "group": {
@@ -14231,88 +14392,11 @@
           "mapWins": 0,
           "mapLosses": 6,
           "rank": 3,
-          "position": 4,
+          "position": 3,
           "outcome": null,
           "isEliminated": false,
           "__typename": "CompetitionStanding",
-          "teamId": "enter-force-36"
-        },
-        {
-          "team": {
-            "id": "VGVhbToyMzM=",
-            "name": "ENTER FORCE.36",
-            "abbreviation": "E36",
-            "logoUrl": "https://assets.owtics.gg/team/enter-force36-384ae9b6.webp",
-            "__typename": "Team"
-          },
-          "group": {
-            "id": "Q29tcGV0aXRpb25Hcm91cDo3NA==",
-            "name": "Group B",
-            "__typename": "CompetitionGroup"
-          },
-          "phaseInfo": {
-            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
-            "name": "REGULAR_SEASON",
-            "format": "ROUND_ROBIN",
-            "sortOrder": 1,
-            "config": {
-              "roundLabel": "MATCHDAY",
-              "__typename": "PhaseConfig"
-            },
-            "__typename": "CompetitionPhase"
-          },
-          "round": 3,
-          "wins": 0,
-          "losses": 3,
-          "draws": 0,
-          "mapWins": 1,
-          "mapLosses": 9,
-          "rank": 4,
-          "position": 4,
-          "outcome": {
-            "id": "UGhhc2VPdXRjb21lOjIwNw==",
-            "__typename": "PhaseOutcome"
-          },
-          "isEliminated": true,
-          "__typename": "CompetitionStanding",
-          "teamId": "enter-force-36"
-        },
-        {
-          "team": {
-            "id": "VGVhbTozMjE=",
-            "name": "MURASH GAMING",
-            "abbreviation": "MRG",
-            "logoUrl": "https://assets.owtics.gg/team/murash-gaming-86abe306.webp",
-            "__typename": "Team"
-          },
-          "group": {
-            "id": "Q29tcGV0aXRpb25Hcm91cDo3Mw==",
-            "name": "Group A",
-            "__typename": "CompetitionGroup"
-          },
-          "phaseInfo": {
-            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
-            "name": "REGULAR_SEASON",
-            "format": "ROUND_ROBIN",
-            "sortOrder": 1,
-            "config": {
-              "roundLabel": "MATCHDAY",
-              "__typename": "PhaseConfig"
-            },
-            "__typename": "CompetitionPhase"
-          },
-          "round": 2,
-          "wins": 0,
-          "losses": 2,
-          "draws": 0,
-          "mapWins": 0,
-          "mapLosses": 6,
-          "rank": 4,
-          "position": 4,
-          "outcome": null,
-          "isEliminated": false,
-          "__typename": "CompetitionStanding",
-          "teamId": "murash-gaming"
+          "teamId": "varrel"
         },
         {
           "team": {
@@ -14346,20 +14430,282 @@
           "mapLosses": 9,
           "rank": 4,
           "position": 4,
+          "outcome": null,
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "murash-gaming"
+        },
+        {
+          "team": {
+            "id": "VGVhbToyMzM=",
+            "name": "ENTER FORCE.36",
+            "abbreviation": "E36",
+            "logoUrl": "https://assets.owtics.gg/team/enter-force36-384ae9b6.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3NA==",
+            "name": "Group B",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 3,
+          "wins": 0,
+          "losses": 3,
+          "draws": 0,
+          "mapWins": 1,
+          "mapLosses": 9,
+          "rank": 4,
+          "position": 4,
+          "outcome": null,
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "enter-force-36"
+        },
+        {
+          "team": {
+            "id": "VGVhbToyMzM=",
+            "name": "ENTER FORCE.36",
+            "abbreviation": "E36",
+            "logoUrl": "https://assets.owtics.gg/team/enter-force36-384ae9b6.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3NA==",
+            "name": "Group B",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 2,
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "mapWins": 0,
+          "mapLosses": 6,
+          "rank": 3,
+          "position": 4,
+          "outcome": null,
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "enter-force-36"
+        },
+        {
+          "team": {
+            "id": "VGVhbTozMjE=",
+            "name": "MURASH GAMING",
+            "abbreviation": "MRG",
+            "logoUrl": "https://assets.owtics.gg/team/murash-gaming-86abe306.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3Mw==",
+            "name": "Group A",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 2,
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "mapWins": 0,
+          "mapLosses": 6,
+          "rank": 4,
+          "position": 4,
+          "outcome": null,
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "murash-gaming"
+        },
+        {
+          "team": {
+            "id": "VGVhbTozMjE=",
+            "name": "MURASH GAMING",
+            "abbreviation": "MRG",
+            "logoUrl": "https://assets.owtics.gg/team/murash-gaming-86abe306.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3Mw==",
+            "name": "Group A",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 4,
+          "wins": 0,
+          "losses": 3,
+          "draws": 0,
+          "mapWins": 0,
+          "mapLosses": 9,
+          "rank": 4,
+          "position": 4,
           "outcome": {
-            "id": "UGhhc2VPdXRjb21lOjIwNw==",
+            "id": "UGhhc2VPdXRjb21lOjIxMA==",
             "__typename": "PhaseOutcome"
           },
           "isEliminated": true,
           "__typename": "CompetitionStanding",
           "teamId": "murash-gaming"
+        },
+        {
+          "team": {
+            "id": "VGVhbToyMzM=",
+            "name": "ENTER FORCE.36",
+            "abbreviation": "E36",
+            "logoUrl": "https://assets.owtics.gg/team/enter-force36-384ae9b6.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3NA==",
+            "name": "Group B",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 1,
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "mapWins": 0,
+          "mapLosses": 3,
+          "rank": 3,
+          "position": 4,
+          "outcome": null,
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "enter-force-36"
+        },
+        {
+          "team": {
+            "id": "VGVhbTozMjE=",
+            "name": "MURASH GAMING",
+            "abbreviation": "MRG",
+            "logoUrl": "https://assets.owtics.gg/team/murash-gaming-86abe306.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3Mw==",
+            "name": "Group A",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 1,
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "mapWins": 0,
+          "mapLosses": 3,
+          "rank": 3,
+          "position": 4,
+          "outcome": null,
+          "isEliminated": false,
+          "__typename": "CompetitionStanding",
+          "teamId": "murash-gaming"
+        },
+        {
+          "team": {
+            "id": "VGVhbToyMzM=",
+            "name": "ENTER FORCE.36",
+            "abbreviation": "E36",
+            "logoUrl": "https://assets.owtics.gg/team/enter-force36-384ae9b6.webp",
+            "__typename": "Team"
+          },
+          "group": {
+            "id": "Q29tcGV0aXRpb25Hcm91cDo3NA==",
+            "name": "Group B",
+            "__typename": "CompetitionGroup"
+          },
+          "phaseInfo": {
+            "id": "Q29tcGV0aXRpb25QaGFzZToxNjg=",
+            "name": "REGULAR_SEASON",
+            "format": "ROUND_ROBIN",
+            "sortOrder": 1,
+            "config": {
+              "roundLabel": "MATCHDAY",
+              "__typename": "PhaseConfig"
+            },
+            "__typename": "CompetitionPhase"
+          },
+          "round": 4,
+          "wins": 0,
+          "losses": 3,
+          "draws": 0,
+          "mapWins": 1,
+          "mapLosses": 9,
+          "rank": 4,
+          "position": 4,
+          "outcome": {
+            "id": "UGhhc2VPdXRjb21lOjIxMA==",
+            "__typename": "PhaseOutcome"
+          },
+          "isEliminated": true,
+          "__typename": "CompetitionStanding",
+          "teamId": "enter-force-36"
         }
       ]
     }
   },
   "refresh": {
-    "attemptedAt": "2026-11-21T15:35:46.657058+00:00",
-    "completedAt": "2026-11-21T15:35:51.079196+00:00",
+    "attemptedAt": "2026-11-22T15:36:15.707812+00:00",
+    "completedAt": "2026-11-22T15:36:20.693614+00:00",
     "errors": {},
     "aiCalls": 0,
     "automatedRegions": [
